@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-ecommerce/static/css/main.69fe1782.css",
+    "main.js": "/react-tailwind-ecommerce/static/js/main.4e13fd13.js",
+    "static/media/exclusive_image.png": "/react-tailwind-ecommerce/static/media/exclusive_image.e8118f2149d9cb916980.png",
+    "static/media/bg_hero.svg": "/react-tailwind-ecommerce/static/media/bg_hero.cd5c9e83759e74a20d2b211a668b5cf7.svg",
+    "index.html": "/react-tailwind-ecommerce/index.html",
+    "main.69fe1782.css.map": "/react-tailwind-ecommerce/static/css/main.69fe1782.css.map",
+    "main.4e13fd13.js.map": "/react-tailwind-ecommerce/static/js/main.4e13fd13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69fe1782.css",
+    "static/js/main.4e13fd13.js"
+  ]
+}
